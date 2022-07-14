@@ -1,0 +1,1 @@
+const double kIconSize = 60.0;
